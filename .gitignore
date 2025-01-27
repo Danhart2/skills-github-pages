@@ -1,37 +1,28 @@
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>new ptimeio ptograma</title>
+    <style>
+        body {
+            background-color: rgb(109, 30, 184);
+            color: white;
+            font: normal 20pt arial;s
+        }
+        h1 {
+            color: #000;
+        }
+    </style>
+</head>
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
-
-# Logs and databases #
-######################
-*.log
-*.sql
-*.sqlite
-
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+<body>
+<h1>olá, mundo</h1>
+    <p>eu sou o homen de ferro</p>
+    <script>
+        window.alert('minha primeira mensagem');
+        window.confirm('esta gostando disso kkk');
+        window.prompt('qual e o seu nome')
+    </script>
+</body>
+</html>
